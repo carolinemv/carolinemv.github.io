@@ -23,7 +23,7 @@ export const About = () => {
           <div className="space-y-6 text-center">
             <div className="prose prose-lg dark:prose-invert max-w-none mx-auto">
               <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
-                I'm a passionate Data Engineer dedicated to transforming complex data into actionable insights. With experience in ETL pipelines, scalable data architectures, and modern big data tools, I focus on creating solutions that drive strategic decision-making. I believe that well-structured data is the foundation for innovation and growth.
+                I didn’t begin in tech, but somewhere along the way, I realized that data is where creativity meets logic. Now, as a Data Engineer, I design and build modern architectures that bring structure to messy systems and meaning to numbers. I’m driven by curiosity, clarity, and collaboration. Recently, I’ve been diving into the world of AI, exploring how this emerging technology can enhance the way we build, analyze, and communicate with data. This portfolio itself is part of that journey, created with the help of Lovable, an AI-powered tool that made it possible for a data engineer to build a front end worth showing off.
               </p>
             </div>
             
